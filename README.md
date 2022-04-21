@@ -1,9 +1,9 @@
-# BlockVote 🤝🏻
+# Online Voting System using Blockchain 🤝🏻
 BlockVote is a blockchain based election system which lets voters elect candidate in an election.
 
 ![](https://img.shields.io/github/languages/code-size/iSumitBanik/BlockVote?style=flat-square) ![](https://img.shields.io/github/stars/iSumitBanik/BlockVote?style=flat-square) ![](https://img.shields.io/github/last-commit/iSumitBanik/BlockVote?style=flat-square) ![](https://img.shields.io/github/followers/iSumitBanik?style=flat-square)
 
-### Technology Stack 🎨
+## Technology Stack 🎨
 1. [BootStrap](https://getbootstrap.com/) 
 2. [Truffle](https://www.trufflesuite.com/) 
 3. Ganache 
@@ -12,8 +12,8 @@ BlockVote is a blockchain based election system which lets voters elect candidat
 
 >Make Sure that you've Truffle and Ganache installed
 
-1. Clone the repo: `git clone https://github.com/iSumitBanik/BlockVote.git`
-2. Navigate to the folder: `cd BlockVote`
+1. Clone the repo: `git clone https://github.com/fahmidasehar/Online-Voting-System-using-Blockchain.git`
+2. Navigate to the folder: `cd Online Voting System using Blockchain`
 3. Install dependencies: `npm install`
 4. Run server: `npm run dev`
 
